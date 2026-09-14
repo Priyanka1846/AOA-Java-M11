@@ -1,6 +1,6 @@
 # **EX 1D Sorted Array using Divide and Conquer Approach**
 
-## **DATE: 21-07-2025**
+## **DATE: 21-07-2026**
 
 ## **AIM:**
 
