@@ -24,8 +24,8 @@ The overall time complexity should be **O(log(m + n))**.
 ```JAVA
 /*
 Program to find median of two sorted arrays using Divide and Conquer
-Developed by: SANJAYKUMAR N B
-Register Number: 212223230189
+Developed by: PRIYANKA K
+Register Number: 212223230162
 */
 import java.util.Scanner;
 
