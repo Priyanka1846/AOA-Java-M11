@@ -25,8 +25,8 @@ An integer **n** is a power of two if there exists an integer **x** such that:
 ```JAVA
 /*
 Program to check if a number is a Power of 2
-Developed by: SANJAYKUMAR N B
-Register Number: 212223230189
+Developed by: PRIYANKA K
+Register Number: 212223230162
 */
 import java.util.*;
 
